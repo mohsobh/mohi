@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json.g..
 jh
 # Runtime datac
 pids///l
-*.pid///h1egh;
+*.pid///h1egh;h
 *.seed//cmsbj
 pids///
 *.pid.lock...hj.ll
