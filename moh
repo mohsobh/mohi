@@ -10,7 +10,7 @@ lerna-debug.log*.//
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json.g..
 jhf
 # Runtime datac
-pids///l
+pids///lr
 *.pid///h1egh;h
 *.seed//cmsbjl
 pids///g
