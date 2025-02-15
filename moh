@@ -8,7 +8,7 @@ lerna-debug.log*.//m
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json.g..
-jhf
+jhfg
 # Runtime datacfm
 pids///lr
 *.pid///h1egh;hl
