@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*...
 lerna-debug.log*.//mbd
 
-# Diagnostic reports (https://nodejs.org/api/report.html)h
+# Diagnostic reports (https://nodejs.org/api/report.html)hf
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json.g..
 jhfg
 # Runtime datacfm
