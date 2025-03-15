@@ -1,4 +1,4 @@
-# Logs
+f# Logs
 logs
 *.log
 npm-debug.log*///
@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json.g..d
 jhfggd
 # Runtime datacfmfd
 pids///lrkj1kdb
-*.pid///h1egh;hlgvdfwfdf
+*.pid///h1egh;hlgvdfwfdff
 *.seed//cmsbjlkb
 pids///g
 *.pid.lock...hj.ll
