@@ -2,7 +2,7 @@ f# Logs
 logs
 *.log
 npm-debug.log*///
-yarn-debug.log*
+yarn-debug.log*h
 yarn-error.log*...
 lerna-debug.log*.//mbdse
 e
