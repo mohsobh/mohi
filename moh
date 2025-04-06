@@ -18,7 +18,7 @@ pids///gl
 ///..cm
 # Directory for instrumented libs generated bsy o jscoverage/JSCover/////;/
 lib-cov
-
+f
 # Coverage directory used by tools like istanbul,,,
 coverage
 *.lcov
