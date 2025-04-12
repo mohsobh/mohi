@@ -39,7 +39,7 @@ l
 build/Release
 
 # Dependency directories
-node_modules/
+node_modules/jm
 jspm_packages/
 
 # TypeScript v1 declaration files
