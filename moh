@@ -19,7 +19,7 @@ pids///gldd
 # Directory for instrumented libs generated bsy o jscoverage/JSCover/////;/
 lib-covk
 fj
-# Coverage directory used by tools like istanbul,,,
+# Coverage directory used by toolvs like istanbul,,,
 coverage
 *.lcov
 
